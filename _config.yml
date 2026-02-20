@@ -23,7 +23,9 @@ navigation:
       url: /index.html
     - title: Investigaciones
       url: /about
-    - title: Contact
+    - title: Índice de Incertidumbre Económica
+      url: /IIE
+    - title: Contacto
       url: /contact
 
 social:
@@ -31,8 +33,8 @@ social:
     twitter: cmhuanto
     facebook: ChristianMauricioHuantoQuispe
     email: chuanto@fen.uchile.cl
-    linkedin: cmhuanto
-    youtube: cmhuanto
+    linkedin: christian-mauricio-huanto-quispe-471748b0
+    youtube: christianmauriciohuantoqui303
     tumblr: i-am-a-fish
 
 google_analytics: "UA-58263416-1"
